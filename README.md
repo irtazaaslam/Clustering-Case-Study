@@ -1,2 +1,2 @@
 # Clustering-Case-Study
-Customer Segmentation with K-Means 
+Customer Segmentation with K-Means and other Clustering Algorithms
